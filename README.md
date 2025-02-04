@@ -5,7 +5,7 @@ I'm a passionate Computer Science student at Assiut University, Egypt, with a fo
 
 ## 🚀 What I'm up to
 - 🎓 Currently pursuing a degree in Computer & Information (2021 - 2025)
-- 💻 Developing web applications using ASP.NET Core MVC
+- 💻 Developing web applications using ASP.NET Core
 - 🌱 Always learning and exploring new technologies
 
 ## 💼 Projects
