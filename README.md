@@ -38,13 +38,6 @@ I’m passionate about building **secure, maintainable, and scalable web applica
 📅 2021 – 2025 | 🎖 GPA: A (with Honors)  
 **Graduation Project:** *Recommendy – AI-Powered Student Opportunities Platform (A+)*  
 
-## 🌟 Skills
-- Backend Development
-- Object-Oriented Programming
-- Database Management
-- Problem Solving
-- Teamwork and Collaboration
-
 ## 📫 Let's Connect
 - Email: mariamebrahim0125@gmail.com
 - LinkedIn: [mariam-ebrahim2002](https://www.linkedin.com/in/mariam-ebrahim2002)
