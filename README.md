@@ -1,7 +1,7 @@
 # Mariam Ebrahim
 
 ## 👋 About Me
-I'm a passionate Computer Science student at Assiut University, Egypt, with a focus on backend development. My journey in software engineering is driven by a love for building innovative solutions and a commitment to continuous learning.
+I'm a Computer Science fresh graduate at Assiut University, Egypt, with a focus on backend development. My journey in software engineering is driven by a love for building innovative solutions and a commitment to continuous learning.
 
 ## 🚀 What I'm up to
 - 🎓 Currently pursuing a degree in Computer & Information (2021 - 2025)
