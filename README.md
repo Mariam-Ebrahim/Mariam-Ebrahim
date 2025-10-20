@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#0078D7;">Mariam Ebrahim</span></h1>
 
 ## About Me
-I’m a **passionate backend developer** focused on building impactful and reliable systems.  
-I enjoy solving real-world problems through clean code and continuously learning new technologies.
+I’m a **passionate backend developer** dedicated to building impactful, reliable systems.  
+I enjoy solving real-world problems through clean, maintainable code and continuously learning new technologies.
 
 ## What I'm Working On
 - Developing backend systems using **ASP.NET Core** and **Entity Framework Core**  
@@ -17,7 +17,7 @@ I enjoy solving real-world problems through clean code and continuously learning
 ## Tech Stack
 **Languages:** C#, C++, Python, PHP, C  
 **Web:** ASP.NET Core (MVC & Web API), HTML, CSS  
-**Databases:** SQL, MySQL, MongoDB, Entity Framework Core  
+**Databases:** Microsoft SQL Server, MySQL, MongoDB, Entity Framework Core  
 **Tools:** Git, GitHub, Postman, Swagger  
 **Concepts:** OOP, RESTful APIs, Database Design, LINQ, Agile  
 
