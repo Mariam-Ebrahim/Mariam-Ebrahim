@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#0078D7;">Mariam Ebrahim</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#0078D7;">Mariam</span></h1>
 
 ## About Me
 I’m a **passionate backend developer** dedicated to building impactful, reliable systems.  
