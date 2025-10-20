@@ -1,34 +1,31 @@
 # Mariam Ebrahim
 
 ## 👋 About Me
-I'm a **Computer Science graduate** from **Assiut University (Class of 2025)**, specializing in **Backend Development with .NET technologies**.  
-I enjoy building **secure and scalable web applications**, focusing on clean architecture, RESTful APIs, and efficient database design.
+Passionate about building impactful backend systems and continuously learning new technologies.
 
-
-## 🚀 What I'm Working On
+## What I'm Working On
 - 🧩 Developing backend systems using **ASP.NET Core** and **Entity Framework Core**  
 - ☁️ Exploring **cloud integration** and **software architecture best practices**  
 - 🤝 Open to **junior backend roles** and **collaborative projects**
 
-## 💼 Featured Projects
+## Featured Projects
 - 🧠 **[Recommendy](https://github.com/Mariam-Ebrahim/Recommendy)** – AI-powered student opportunities platform (Admin APIs, analytics, organization verification)  
 - 🛒 **[Online Mobile Store](https://github.com/Mariam-Ebrahim/Online_Mobile_Store)** – E-commerce site with product & order management  
 - 📚 **[Library Management System](https://github.com/Mariam-Ebrahim/Library_Management_System)** – Web system for book lending and user tracking
 
 
-## 🛠 Tech Stack
+## Tech Stack
 **Languages:** C#, C++, Python, PHP, C  
 **Web:** ASP.NET Core (MVC & Web API), HTML, CSS  
 **Databases:** SQL, MySQL, MongoDB, Entity Framework Core  
 **Tools:** Git, GitHub, Postman, Swagger  
 **Concepts:** OOP, RESTful APIs, Database Design, LINQ, Agile  
 
-## 🎓 Education
+## Education
 **B.Sc. Computer Science**, Assiut University (2021–2025)  
 🎖 Graduated with Honors (A)
 
 ## 📫 Let's Connect
-
 <p align="left">
   <a href="mailto:mariamebrahim0125@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -37,6 +34,5 @@ I enjoy building **secure and scalable web applications**, focusing on clean arc
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations.
